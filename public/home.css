@@ -1,0 +1,28 @@
+body
+{
+	background-image: url("http://www.wallcoo.net/1440x900/1440x900_cg/wallpapers/1440x900/Free_High_resolution_wallpaper_00753_simplesunset_1440x900.jpg");
+	background-size: cover;
+}
+#link
+{
+	color: white;
+}
+.car
+{
+	margin-top: 90px;
+}
+#img{
+	background-color: transparent;
+	width: 100%;
+	border-radius: 5%;
+}
+.font1
+{
+	font-size: 25px;
+	opacity: 0.8;
+.pic
+{
+	height: 50px;
+	width:150px;
+}
+
